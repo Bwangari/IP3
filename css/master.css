@@ -13,6 +13,22 @@
     color: white;
     text-transform: uppercase;
 }
+.fixed-background{
+    background-image: url(../assets/backgrounds/s_image.jpg);
+    height:280px;
+    background-repeat: no-repeat;
+    background-size: auto 100%;
+    
+}
+.service{
+    width:80%;
+    max-width: 100%;
+    position: absolute;
+    z-index: 1;
+    color: white;
+    padding-top: 100px;
+    padding-left: 150px;
+}
 
 Extra small (xs) devices (portrait phones, less than 576px)
 No media query since this is the default in Bootstrap
