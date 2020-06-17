@@ -34,6 +34,13 @@
     padding-top: 150px;
     font-size: medium;
 }
+h3.what{
+    font-size: 1.9rem;
+    font-weight: 700;
+    text-transform: uppercase;
+    padding-top: 10px;
+
+}
 
 Extra small (xs) devices (portrait phones, less than 576px)
 No media query since this is the default in Bootstrap
