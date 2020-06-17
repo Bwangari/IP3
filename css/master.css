@@ -29,6 +29,11 @@
     padding-top: 100px;
     padding-left: 150px;
 }
+.one{
+    color: white;
+    padding-top: 150px;
+    font-size: medium;
+}
 
 Extra small (xs) devices (portrait phones, less than 576px)
 No media query since this is the default in Bootstrap
